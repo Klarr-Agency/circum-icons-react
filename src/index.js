@@ -1,1 +1,1 @@
-export { default } from "./Icon.jsx";
+export { default } from "./CircumIcons.jsx";
