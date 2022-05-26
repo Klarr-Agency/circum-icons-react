@@ -9,7 +9,7 @@ Available for these frameworks 👉 React, [Vue](https://github.com/Klarr-Agency
 Install with npm
 
 ```bash
-  npm i -D @klarr-agency/circum-icons-vue
+  npm i -D @klarr-agency/circum-icons-react
 ```
 
 ## Usage/Examples
