@@ -1,6 +1,6 @@
 {
 	"name": "@klarr-agency/circum-icons-react",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Circum icons pack for react",
 	"module": "dist/index.mjs",
 	"main": "dist/index.js",
